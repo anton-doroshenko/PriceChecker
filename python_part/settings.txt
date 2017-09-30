@@ -1,0 +1,4 @@
+sender@gmail.com
+password
+recipient@gmail.com
+40000
